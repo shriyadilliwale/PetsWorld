@@ -1,2 +1,2 @@
 # PetsWorld
-<img src="/shriyadilliwale/PetsWorld/raw/main/img/pets1.png" width="128"/>
+![Landing Page](./img/pets1.png)
